@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/Varsha/Downloads/borg_calendar-1.8.3/BORGCalendar/common/target/common-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Varsha/Downloads/borg_calendar-1.8.3/BORGCalendar/install/target/borg_installer-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Varsha/Downloads/borg_calendar-1.8.3/BORGCalendar/model/target/model-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Varsha/Downloads/borg_calendar-1.8.3/BORGCalendar/swingui/target/swingui-1.8.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
